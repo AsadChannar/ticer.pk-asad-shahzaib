@@ -45,7 +45,7 @@ function HeroSection() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h1>Ghraphic </h1>
+          <h1>Graphic Desiging</h1>
         </Carousel.Caption>
         
       </Carousel.Item>
