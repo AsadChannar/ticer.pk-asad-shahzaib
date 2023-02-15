@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import logo from '../Images/TICER-Logo-PNG.png';
 
-export default function navebar() {
+export default function Navigation() {
   return (
     <div>
   <Navbar bg="transparent" expand="lg">
