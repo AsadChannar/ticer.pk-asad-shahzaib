@@ -8,7 +8,7 @@ import logo from '../Images/TICER-Logo-PNG.png';
 export default function Navigation() {
   return (
     <div>
-  <Navbar bg="transparent" expand="lg">
+  <Navbar className='' style={{backgroundColor:'#357EEF'}} expand="lg" sticky='top'>
       <Container>
         <Navbar.Brand href="#home"><img src={logo} /></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
