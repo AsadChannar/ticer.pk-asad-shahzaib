@@ -37,3 +37,10 @@
     transform: rotate(360deg);
   }
 }
+
+.slider1{
+  background-position: center;
+  /* background-size: cover; */
+  height: 400px;
+  width: 100%;
+}
